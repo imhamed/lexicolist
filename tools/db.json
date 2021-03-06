@@ -72,13 +72,23 @@
     },
     {
       "id": "8",
-      "entry": "poke fun at",
-      "meaningURL": "https://www.google.com/search?q=poke+fun+at",
-      "createdAt": "2020-12-07T12:52:47Z",
-      "lastVeiwedAt": "2020-12-07T12:52:47Z",
-      "viewNumber": "1",
-      "type": "phrase",
-      "dialect": "General English"
+      "entry": "",
+      "meaningURL": "",
+      "createdAt": "",
+      "lastVeiwedAt": "",
+      "viewNumber": "",
+      "type": "",
+      "dialect": ""
+    },
+    {
+      "id": "9",
+      "entry": "",
+      "meaningURL": "",
+      "createdAt": "",
+      "lastVeiwedAt": "",
+      "viewNumber": "",
+      "type": "",
+      "dialect": ""
     }
   ]
 }
