@@ -1,0 +1,74 @@
+{
+  "lexicos": [
+    {
+      "id": "1",
+      "lexe": "the proof is in the pudding",
+      "meaningURL": "https://www.google.com/search?q=the+proof+is+in+Pudding",
+      "createdAt": "2020-12-03T20:18:47Z",
+      "lastVeiwedAt": "2020-12-02T21:18:47Z",
+      "viewNumber": "1",
+      "type": "expression",
+      "dialect": "American English"
+    },
+    {
+      "id": "2",
+      "lexico": "brag",
+      "meaningURL": "https://www.google.com/search?q=brag",
+      "createdAt": "2020-12-01T10:18:47Z",
+      "lastVeiwedAt": "2020-12-03T11:28:47Z",
+      "viewNumber": "1",
+      "type": "expression",
+      "dialect": "American English"
+    },
+    {
+      "id": "3",
+      "lexico": "throw the cat among the pigeons",
+      "meaningURL": "https://www.google.com/search?q=throw+the+cat+among+the+pigeons",
+      "createdAt": "2020-12-04T12:43:47Z",
+      "lastVeiwedAt": "2020-12-04T12:43:47Z",
+      "viewNumber": "1",
+      "type": "idiom",
+      "dialect": "British English"
+    },
+    {
+      "id": "4",
+      "entry": "all but",
+      "meaningURL": "https://www.google.com/search?q=all+but",
+      "createdAt": "2020-12-04T12:43:47Z",
+      "lastVeiwedAt": "2020-12-04T12:43:47Z",
+      "viewNumber": "1",
+      "type": "phrase",
+      "dialect": "General English"
+    },
+    {
+      "id": "5",
+      "entry": "the ship has sailed",
+      "meaningURL": "https://www.google.com/search?q=the+ship+has+sailed",
+      "createdAt": "2020-12-07T12:43:47Z",
+      "lastVeiwedAt": "2020-12-07T12:43:47Z",
+      "viewNumber": "1",
+      "type": "idiom",
+      "dialect": "General English"
+    },
+    {
+      "id": "6",
+      "entry": "ubiquitous",
+      "meaningURL": "https://www.google.com/search?q=ubiquitous",
+      "createdAt": "2020-12-07T12:46:47Z",
+      "lastVeiwedAt": "2020-12-07T12:46:47Z",
+      "viewNumber": "1",
+      "type": "word",
+      "dialect": "General English"
+    },
+    {
+      "id": "7",
+      "entry": "poke fun at",
+      "meaningURL": "https://www.google.com/search?q=poke+fun+at",
+      "createdAt": "2020-12-07T12:52:47Z",
+      "lastVeiwedAt": "2020-12-07T12:52:47Z",
+      "viewNumber": "1",
+      "type": "phrase",
+      "dialect": "General English"
+    }
+  ]
+}
